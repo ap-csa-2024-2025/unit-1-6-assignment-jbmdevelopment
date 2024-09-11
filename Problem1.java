@@ -1,7 +1,7 @@
-public class Problem1
-{
-  public static void main(String[] args)
-  {
-    // insert code here
-  }
+public class Problem1 {
+    public static void main(String[] args) {
+        double x = 5 / 20;
+        System.out.println(x);
+        // insert code here
+    }
 }
